@@ -110,7 +110,7 @@ streamlit run app.py
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Manish Dhruw**
 
