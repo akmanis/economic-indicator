@@ -1,4 +1,4 @@
-#Economic Indicator Dashboard
+Economic Indicator Dashboard
 
 An interactive web-based dashboard to analyze and visualize key macroeconomic indicators such as GDP growth, inflation, and unemployment across countries. The project also includes correlation analysis and machine learning-based inflation prediction.
 
@@ -10,7 +10,7 @@ https://economic.streamlit.app
 
 ---
 
-## 📌 Features
+## Features
 
 * **Single Country Dashboard**
 
@@ -66,7 +66,7 @@ economic-dashboard/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/economic-dashboard.git
+git clone https://github.com/akmanis/economic-dashboard.git
 cd economic-dashboard
 ```
 
