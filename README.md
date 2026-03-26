@@ -112,8 +112,8 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-**Manish**
+**Manish Dhruw**
 
-* Economics Student | Indian Institue Of Science Education & Research (IISERB), Bhopal *
+* Economics Student | Indian Institue Of Science Education & Research (IISERB), Bhopal
 
 ---
