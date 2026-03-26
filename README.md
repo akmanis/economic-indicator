@@ -112,14 +112,8 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-**Manish (AK)**
+**Manish**
 
-* Economics Student | Data & Fintech Enthusiast
-
----
-
-## ⭐ If you like this project
-
-Give it a star ⭐ on GitHub and feel free to connect!
+* Economics Student | Indian Institue Of Science Education & Research (IISERB), Bhopal *
 
 ---
