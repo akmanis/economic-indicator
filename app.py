@@ -60,11 +60,11 @@ def fetch_data(country, indicator):
 
 
 # =========================================================
-# 🟢 DASHBOARD (ONE COUNTRY ONLY)
+#  DASHBOARD (ONE COUNTRY ONLY)
 # =========================================================
 if page == "Dashboard":
 
-    st.title("📊 Economic Indicator Dashboard")
+    st.title("Economic Indicator Dashboard")
 
     # Sidebar controls (reduces flicker feel)
     country_name = st.sidebar.selectbox("Select Country", list(country_dict.keys()), key="country1")
@@ -181,7 +181,7 @@ if page == "Dashboard":
 
 
 # =========================================================
-# 🔵 COMPARISON PAGE
+#  COMPARISON PAGE
 # =========================================================
 elif page == "Comparison":
 
